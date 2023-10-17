@@ -1,0 +1,4 @@
+-U sentence-transformers
+pinecone-client
+pandas
+ast import literal_eval
